@@ -1,7 +1,7 @@
-#使用方法
+# 使用方法
 cd FIFO/
 make
-##打开两个终端分别运行
+## 打开两个终端分别运行
 ./w_fifo test.txt
 ./r_fifo result.txt
 
