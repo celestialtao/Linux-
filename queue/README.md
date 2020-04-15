@@ -1,4 +1,4 @@
-#使用方法
+# 使用方法
 cd queue/
 make
 ./_queue
@@ -10,7 +10,9 @@ int_handler set for SIGINT
 go to sleep.
 
 ^C
+
 SIGINT signal handler.
+
 
 exit.
 
