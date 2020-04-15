@@ -1,4 +1,4 @@
-#使用方法
+# 使用方法
 cd pipe/
 make
 ./_main
