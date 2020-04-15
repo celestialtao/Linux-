@@ -1,7 +1,10 @@
 # 使用方法
 cd queue/
+
+
 make
-./_queue
+
+. /_queue
 
 输出: 
 
