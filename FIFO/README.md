@@ -1,8 +1,10 @@
 # 使用方法
 cd FIFO/
+
 make
 ## 打开两个终端分别运行
 ./w_fifo test.txt
+
 ./r_fifo result.txt
 
 输出：完成test文本内容拷贝到result中
